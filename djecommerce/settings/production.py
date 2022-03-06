@@ -5,7 +5,7 @@ import dj_database_url
 
 DEBUG = False
 
-ALLOWED_HOSTS = [".herokuapp.com", "localhost"]
+ALLOWED_HOSTS = ["ismatullayevs-ecommerce.herokuapp.com", "localhost"]
 
 
 INSTALLED_APPS += [
