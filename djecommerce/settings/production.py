@@ -8,9 +8,6 @@ DEBUG = False
 ALLOWED_HOSTS = ["ismatullayevs-ecommerce.herokuapp.com", "localhost"]
 
 
-INSTALLED_APPS += [
-    "whitenoise.runserver_nostatic",
-]
 
 
 # Password validation
